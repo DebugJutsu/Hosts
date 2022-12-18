@@ -1,6 +1,7 @@
 # Block List for Netguard
 
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 m.doubleclick.net
